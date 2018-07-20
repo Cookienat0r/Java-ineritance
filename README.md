@@ -1,3 +1,3 @@
-# Java-ineritance
+# Java-inheritance
 
 ship class
